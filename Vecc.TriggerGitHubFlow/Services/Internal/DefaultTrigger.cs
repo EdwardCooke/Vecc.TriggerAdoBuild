@@ -4,9 +4,9 @@ using System.Collections.Concurrent;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using Vecc.TriggerAdoBuild.Models;
+using Vecc.TriggerGitHubFlow.Models;
 
-namespace Vecc.TriggerAdoBuild.Services.Internal
+namespace Vecc.TriggerGitHubFlow.Services.Internal
 {
     public class DefaultTrigger : ITrigger
     {

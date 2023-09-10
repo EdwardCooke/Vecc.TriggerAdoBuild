@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Vecc.TriggerAdoBuild.Models;
+using Vecc.TriggerGitHubFlow.Models;
 
-namespace Vecc.TriggerAdoBuild.Services
+namespace Vecc.TriggerGitHubFlow.Services
 {
     public interface ITrigger
     {
